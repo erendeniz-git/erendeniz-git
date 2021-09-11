@@ -1,4 +1,4 @@
-- 👋 Hi, I’m EREN
+- 👋 #Hi, I’m EREN
 - 👀 I’m interested in **Machine Learning** and **Deep Learning**
 - 🔭 I’m currently working on **Microwave Link Failure Prediction**
 - 📝 I regularly write articles on https://medium.com/@eren.deniz
